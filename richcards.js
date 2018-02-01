@@ -1,1 +1,11 @@
-<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","url":"http://www.themegazoom.tk","logo":"https://raw.githubusercontent.com/TheMegaZoom/img/master/logo.png"}</script><script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"http://www.themegazoom.tk","potentialAction":{"@type":"SearchAction","target":"https://query.themegazoom.tk/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script><script type="application/ld+json">{"@context":"http://schema.org","@type":"Person","name":"TheMegaZoom","url":"http://www.themegazoom.tk","sameAs":["https://plus.google.com/116756786049326310240","https://www.linkedin.com/company/themegazoom/","https://twitter.com/TheMegaZoom"]}</script>
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "TheMegaZoom",
+  "url": "http://www.themegazoom.tk",
+  "sameAs": [
+    "https://plus.google.com/116756786049326310240",
+    "https://www.linkedin.com/company/themegazoom/",
+    "https://twitter.com/TheMegaZoom"
+  ]
+}
